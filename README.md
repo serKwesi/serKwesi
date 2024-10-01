@@ -13,6 +13,8 @@
 ◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
 
 
+Linkedin
+
 
 <!---
 serKwesi/serKwesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
