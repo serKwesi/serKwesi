@@ -10,7 +10,7 @@
 
 ◊ 📫 How to reach me kwasi.serebuor@gmail.com. 
 
-😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
+◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
 
 
 
