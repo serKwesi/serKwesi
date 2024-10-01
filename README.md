@@ -13,7 +13,6 @@
 ◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
 
 
-Linkedin
 
 
 <!---
