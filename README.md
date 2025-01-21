@@ -8,7 +8,7 @@
 
 ◊ 💞️ My additional passions are learning about subjects not related to technology, sport activities and travelling. 
 
-◊ 📫 How to reach me kwasi.serebuor@gmail.com. 
+◊ 📫 How to reach me kwasi.serebuor@outlook.com. 
 
 ◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
 
