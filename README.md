@@ -12,6 +12,9 @@
 
 ◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
 
+◊ Website: https://kosertech.wixsite.com/koser
+
+
 
 
 
