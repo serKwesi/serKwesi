@@ -1,16 +1,18 @@
 # Hi, I'm Kwasi Serebuor 👋
 
-CS graduate based in the UK, looking to kick off my tech career in **IT support and infrastructure**. I enjoy solving problems, helping people get unstuck with technology, and building things that actually work.
+CS graduate based in Hatfield, UK, working towards a career in **IT support and infrastructure**. I have a background spanning full-stack development, robotics programming, and hands-on technical work — and I'm multilingual in English, Italian, and Twi.
 
 ---
 
-## 🛠️ What I can do
+## 🛠️ Technical skills
 
-- **Languages:** Python, SQL, Java, JavaScript, C#
+- **Languages:** Python, JavaScript, C#, SQL, HTML & CSS, Java
+- **Frameworks:** React.js, Node.js/Express, ASP.NET Core
+- **Tools:** Git & GitHub, VS Code, Visual Studio, MongoDB
 - **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
 - **OS:** Windows (daily use), Linux (learning)
-- **Tools:** Git, VS Code, Active Directory
-- **Currently learning:** CompTIA A+ / Google IT Support Certificate
+- **Certifications:** Foundational C# with Microsoft
+- **Currently working toward:** CompTIA A+ / Google IT Support Certificate
 
 ---
 
@@ -18,18 +20,22 @@ CS graduate based in the UK, looking to kick off my tech career in **IT support 
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Service Management System](https://github.com/serKwesi/Service-Management-System) | Tracks and manages service requests for a company — similar to a helpdesk ticketing system | Java |
-| [Taxi Booking System](https://github.com/serKwesi/Taxi-Booking-System) | Manages ride bookings and tracks requests end-to-end | Python |
-| [Weather App](https://github.com/serKwesi/Weather-App) | Fetches and displays real-time weather via API | JavaScript |
-| [Elevator Control System](https://github.com/serKwesi/Elevator-Control-System) | Simulates a two-floor elevator with OOP design | C# |
+| [StudentCollab](https://github.com/serKwesi) | Full-stack peer-to-peer skill-sharing platform with AI matchmaking using KNN | MongoDB, Express, React, Node.js, Python |
+| [LTFC AI Itinerary Planner](https://github.com/serKwesi) | Led a 5-person agile team to deliver a multi-agent AI travel planner for a real client (Luton Town FC) | Relevance AI, Preact, TypeScript |
+| [Service Management System](https://github.com/serKwesi/Service-Management-System) | Manages and tracks service requests — similar to a helpdesk ticketing system | Java |
+| [Deep Learning Image Classifier](https://github.com/serKwesi) | Built and compared CNN/ANN architectures for image classification across 10 categories | Python, TensorFlow, Keras |
+| [Taxi Booking System](https://github.com/serKwesi/Taxi-Booking-System) | End-to-end ride booking and tracking system | Python |
+| [Weather App](https://github.com/serKwesi/Weather-App) | Real-time weather via live API integration | JavaScript |
 
 ---
 
 ## 🎓 Background
 
-- BSc Computer Science — University of Bedfordshire
-- Practical experience with troubleshooting, networking concepts, and building systems across multiple languages
-- Currently working on hands-on IT skills: home lab setup, ticketing systems, and certification prep
+- **BSc Computer Science** — University of Bedfordshire (2023–2026)
+- **Diploma in IT Maintenance & Technical Assistance** — Ipsia Moretto Fortuny, Italy
+  - Hardware maintenance, PC diagnostics, networking fundamentals, technical support
+- **Robotics & CNC Programmer Intern** — Camozzi Automation, Italy
+  - Programmed robotic transfer machines, performed mechanical diagnostics, optimised CNC parameters
 
 ---
 
