@@ -8,9 +8,9 @@ CS graduate based in the UK, working towards a career in **IT support and infras
 
 - **Languages:** Python, JavaScript, C#, SQL, HTML & CSS, Java
 - **Frameworks:** React.js, Node.js/Express, ASP.NET Core
-- **Tools:** Git & GitHub, VS Code, Visual Studio, MongoDB
+- **Tools:** Git & GitHub, Active Directory, VS Code, Visual Studio, MongoDB
 - **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
-- **OS:** Windows (daily use), Linux (learning)
+- **OS:** Windows macOS, Linux (learning)
 - **Certifications:** Foundational C# with Microsoft
 - **Currently working toward:** CompTIA A+ / Google IT Support Certificate
 
