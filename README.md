@@ -2,7 +2,7 @@
 
 ◊ 👀 I’m interested in Technology.  
 
-◊ 👨🏽‍🎓 I’m currently studying Computer Science.  
+◊ 👨🏽‍🎓 Computer Science.  
 
 ◊ 👨🏽‍💻 Proficient in Python, SQL, Networking, with foundational skills in Java, Javascript, C#. 
 
