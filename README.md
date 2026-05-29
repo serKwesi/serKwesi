@@ -1,6 +1,6 @@
 # Hi, I'm Kwasi Serebuor 👋
 
-CS graduate based in Hatfield, UK, working towards a career in **IT support and infrastructure**. I have a background spanning full-stack development, robotics programming, and hands-on technical work — and I'm multilingual in English, Italian, and Twi.
+CS graduate based in the UK, working towards a career in **IT support and infrastructure**. I have a background spanning full-stack development, robotics programming, and hands-on technical work — and I'm multilingual in English, Italian, and Twi.
 
 ---
 
