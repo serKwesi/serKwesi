@@ -1,24 +1,41 @@
-◊ 👋 Hi, I’m Kwasi Serebuor, @serKwesi.  
+# Hi, I'm Kwasi Serebuor 👋
 
-◊ 👀 I’m interested in Technology.  
+CS graduate based in the UK, looking to kick off my tech career in **IT support and infrastructure**. I enjoy solving problems, helping people get unstuck with technology, and building things that actually work.
 
-◊ 👨🏽‍🎓 Computer Science.  
+---
 
-◊ 👨🏽‍💻 Proficient in Python, SQL, Networking, with foundational skills in Java, Javascript, C#. 
+## 🛠️ What I can do
 
-◊ 💞️ My additional passions are learning about subjects not related to technology, sport activities and travelling. 
+- **Languages:** Python, SQL, Java, JavaScript, C#
+- **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
+- **OS:** Windows (daily use), Linux (learning)
+- **Tools:** Git, VS Code, basic Active Directory concepts
+- **Currently learning:** CompTIA A+ / Google IT Support Certificate
 
-◊ 📫 How to reach me kwasi.serebuor@outlook.com. 
+---
 
-◊ 😉 Connect with me on https://www.linkedin.com/in/Kwasi-Serebuor.  
+## 📁 Projects
 
-◊ 🌐 Website: https://kosertech.wixsite.com/koser
+| Project | What it does | Tech |
+|---|---|---|
+| [Service Management System](https://github.com/serKwesi/Service-Management-System) | Tracks and manages service requests for a company — similar to a helpdesk ticketing system | Java |
+| [Taxi Booking System](https://github.com/serKwesi/Taxi-Booking-System) | Manages ride bookings and tracks requests end-to-end | Python |
+| [Weather App](https://github.com/serKwesi/Weather-App) | Fetches and displays real-time weather via API | JavaScript |
+| [Elevator Control System](https://github.com/serKwesi/Elevator-Control-System) | Simulates a two-floor elevator with OOP design | C# |
 
+---
 
+## 🎓 Background
 
+- BSc Computer Science — University of Bedfordshire
+- Practical experience with troubleshooting, networking concepts, and building systems across multiple languages
+- Currently working on hands-on IT skills: home lab setup, ticketing systems, and certification prep
 
+---
 
-<!---
-serKwesi/serKwesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/Kwasi-Serebuor)
+- 🌐 [Website](https://kosertech.wixsite.com/koser)
+- 📧 kwasi.serebuor@outlook.com
+
