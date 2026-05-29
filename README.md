@@ -9,7 +9,7 @@ CS graduate based in the UK, looking to kick off my tech career in **IT support 
 - **Languages:** Python, SQL, Java, JavaScript, C#
 - **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
 - **OS:** Windows (daily use), Linux (learning)
-- **Tools:** Git, VS Code, basic Active Directory concepts
+- **Tools:** Git, VS Code, Active Directory
 - **Currently learning:** CompTIA A+ / Google IT Support Certificate
 
 ---
