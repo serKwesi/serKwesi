@@ -32,7 +32,7 @@ CS graduate based in the UK, working towards a career in **IT support and infras
 ## 🎓 Background
 
 - **BSc Computer Science** — University of Bedfordshire (2023–2026)
-- **Diploma in IT Maintenance & Technical Assistance** — Ipsia Moretto Fortuny, Italy
+- **Diploma in IT Maintenance & Technical Assistance** — Ipsia Moretto Fortuny, Italy (2014-2019)
   - Hardware maintenance, PC diagnostics, networking fundamentals, technical support
 - **Robotics & CNC Programmer Intern** — Camozzi Automation, Italy
   - Programmed robotic transfer machines, performed mechanical diagnostics, optimised CNC parameters
