@@ -12,7 +12,7 @@ CS graduate based in the UK, I'm currently working towards a career in **IT and 
 - **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
 - **OS:** Windows macOS, Linux (learning)
 - Certifications: CCNA: Introduction to Networks (Cisco) · Endpoint Security (Cisco) · Network Defense (Cisco) · Introduction to Cybersecurity (Cisco) · Foundational C# with Microsoft Foundational C# with Microsoft
-- **Currently working toward:** AWS cloud practitioner
+- **Currently working toward:** AWS Cloud Practitioner
 
 ---
 
