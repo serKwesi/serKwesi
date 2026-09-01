@@ -10,7 +10,7 @@ CS graduate based in the UK, I'm currently working towards a career in **IT and 
 - **Frameworks:** React.js, Node.js/Express, ASP.NET Core
 - **Tools:** Git & GitHub, Active Directory, VS Code, Visual Studio, MongoDB
 - **Networking:** TCP/IP, DNS, DHCP, subnetting fundamentals
-- **OS:** Windows macOS, Linux (learning)
+- **OS:** Windows macOS, Linux 
 - Certifications: CCNA: Introduction to Networks (Cisco) · Endpoint Security (Cisco) · Network Defense (Cisco) · Introduction to Cybersecurity (Cisco) · Foundational C# with Microsoft Foundational C# with Microsoft
 - **Currently working toward:** AWS Cloud Practitioner
 
