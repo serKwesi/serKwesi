@@ -20,6 +20,7 @@ CS graduate based in the UK, I'm currently working towards a career in **IT and 
 
 | Project | What it does | Tech |
 |---|---|---|
+| [Home IT Support Lab](https://github.com/serKwesi/homelab-it-support) | Self-built home lab simulating Tier 1/2 IT support: Active Directory, OU/group design, GPOs |
 | [StudentCollab](https://github.com/serKwesi) | Full-stack peer-to-peer skill-sharing platform with AI matchmaking using KNN | MongoDB, Express, React, Node.js, Python |
 | [LTFC AI Itinerary Planner](https://github.com/serKwesi) | Led a 5-person agile team to deliver a multi-agent AI travel planner for a real client (Luton Town FC) | Relevance AI, Preact, TypeScript |
 | [Service Management System](https://github.com/serKwesi/Service-Management-System) | Manages and tracks service requests — similar to a helpdesk ticketing system | Java |
